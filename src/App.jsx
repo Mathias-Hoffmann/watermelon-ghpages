@@ -234,7 +234,7 @@ const App = () => {
           whiteSpace: "nowrap"
         }}
       >
-        Bonjour Madame Louise
+        Bonjour Madame Louise<br />
         RDV <br />
         09/11<br />
         20h10<br />
