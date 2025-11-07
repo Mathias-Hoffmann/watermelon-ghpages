@@ -234,8 +234,10 @@ const App = () => {
           whiteSpace: "nowrap"
         }}
       >
-        Bonjour Madame Louise<br />
-        RDV 09/11 20h10
+        Bonjour Madame Louise
+        RDV<br />
+        09/11<br />
+        20h10<br />
         Lat 47.21363449 · Lon -1.56244636
       </div>
 
