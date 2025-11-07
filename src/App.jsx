@@ -235,7 +235,7 @@ const App = () => {
         }}
       >
         Bonjour Madame Louise<br />
-        RDV 20h10
+        RDV 09/11 20h10
         Lat 47.21363449 · Lon -1.56244636
       </div>
 
